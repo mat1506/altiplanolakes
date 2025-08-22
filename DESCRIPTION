@@ -1,15 +1,37 @@
 Package: altiplanolakes
-Title: What the Package Does (One Line, Title Case)
+Title: Lacustrine geochemistry reveals extreme dry and humid events in the Altiplano of the Atacama Desert over the past 7,000 years
 Version: 0.0.0.9000
 Authors@R:
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Matías", "Frugone-Álvarez", , "frugone.alvarez.m@gmail.com", role = c("aut", "cre"))
+Description: This repository contains the research compendium of the 
+    Lacustrine geochemistry reveals extreme dry and humid events in the Altiplano of the Atacama Desert over the past 7,000 years. 
+    The compendium contains all data, code, and text associated with this sub-section of the analysis.
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-Imports: here
-Suggests: devtools,
-    git2r
+Imports: 
+    whisker,
+    rstudioapi,
+    rmarkdown,
+    jsonlite,
+    methods,
+    httr,
+    usethis,
+    clisymbols,
+    crayon,
+    glue,
+    here,
+    devtools,
+    git2r,
+    rbacon,
+    rplum,
+    tidyverse
+Suggests:
+    testthat,
+    quarto,
+    knitr
+VignetteBuilder: knitr    
+Data: 2025-08-22    

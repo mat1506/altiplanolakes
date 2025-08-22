@@ -11,12 +11,16 @@ knitr::opts_chunk$set(
   fig.path = "README-"
 )
 # Please put your title here to include it in the file below.
-Title <- "Title of your paper goes here"
+Title <- "Lacustrine geochemistry reveals extreme dry and humid events in the   Altiplano of the Atacama Desert over the past 7,000 years"
 ```
 
 # altiplanolakes
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mat1506/altiplanolakes/master?urlpath=rstudio)
+
+[master.zip](https://github.com/mat1506/altiplanolakes/archive/master.zip)
+
+
 
 This repository contains the data and code for our paper:
 
@@ -66,11 +70,11 @@ You can download the compendium as a zip from from this URL:
 
 ### Licenses
 
-**Text and figures :**  [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+**Text and figures :**  [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/), Copyright (c) 2025 Matías Frugone-Álvarez.
 
 **Code :** See the [DESCRIPTION](DESCRIPTION) file
 
-**Data :** [CC-0](http://creativecommons.org/publicdomain/zero/1.0/) attribution requested in reuse
+**Data :** [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/), Copyright (c) 2025 Matías Frugone-Álvarez.
 
 ### Contributions
 
